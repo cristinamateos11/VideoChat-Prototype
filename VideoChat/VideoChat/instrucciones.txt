@@ -1,0 +1,1 @@
+iniciar server con npm start y luego npm run dev en este proyecto 
